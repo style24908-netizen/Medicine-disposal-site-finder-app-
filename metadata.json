@@ -1,0 +1,5 @@
+{
+  "name": "Medication Disposal Finder",
+  "description": "Easily find nearby disposal locations for unused or expired medications. Search by your current location or by address to ensure safe and proper disposal.",
+  "requestFramePermissions": []
+}
